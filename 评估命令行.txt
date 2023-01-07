@@ -1,0 +1,1 @@
+bash scripts/run_eval_gpu.sh 0 /home/ma-user/work/datasets/LJSpeech-1.1 /home/ma-user/work/models/research/audio/FastSpeech/log/FastSpeech-189_406.ckpt /home/ma-user/work/models/research/audio/FastSpeech/WaveGlow.ckpt /home/ma-user/work/models/research/audio/FastSpeech/DeepSpeech2.ckpt 
